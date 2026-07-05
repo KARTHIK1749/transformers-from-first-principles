@@ -73,16 +73,8 @@ This roadmap tracks the progress of the repository from mathematical foundations
 
 ---
 
-## Phase 8 — Testing
 
-- [ ] Unit Tests
-- [ ] Numerical Verification
-- [ ] Toy Dataset
-- [ ] Translation Example
-
----
-
-## Phase 9 — Advanced Topics
+## Phase 8 — Advanced Topics
 
 - [ ] GPT Architecture
 - [ ] BERT Architecture
@@ -92,7 +84,7 @@ This roadmap tracks the progress of the repository from mathematical foundations
 
 ---
 
-## Phase 10 — Future Improvements
+## Phase 9 — Future Improvements
 
 - [ ] Byte Pair Encoding (BPE)
 - [ ] Beam Search
